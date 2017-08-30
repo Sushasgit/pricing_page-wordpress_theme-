@@ -1,0 +1,1 @@
+ <footer><span class="footer__text">Copyright 2016 SomeCompany, Inc.</span></footer>
